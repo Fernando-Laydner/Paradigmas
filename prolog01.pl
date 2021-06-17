@@ -19,3 +19,4 @@ idade(joao, 32).
 gaucho(X) :- nasceu_em(X, rs). 
 brasileiro(X) :- nasceu_em(X, brasil). 
 europeu(X) :- nasceu_em(X, europa).
+sdasd
